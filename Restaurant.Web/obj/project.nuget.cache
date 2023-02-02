@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JrOEJZ60vYFnltOluXChU8+uoNxgjrgGRC7rYE0ezF19MuUXxVep8BkrJ0XBt5uglkNs5ptEcgoWSJadaIUGZQ==",
+  "dgSpecHash": "VDyeReutgjOz4C3AMNRX2a+xQlxG8IGeh/RiULTeE09knQPsoVoQChFA80UthS91+0uTp8W3Yaazd2rEXWno0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Web\\Restaurant.Web.csproj",
+  "projectFilePath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Web\\Restaurant.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

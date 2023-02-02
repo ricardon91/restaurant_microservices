@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ricardo\\.nuget\\packages\\": {}
+    "C:\\Users\\ricar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Web\\Restaurant.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Web\\Restaurant.Web.csproj",
       "projectName": "Restaurant.Web",
-      "projectPath": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Web\\Restaurant.Web.csproj",
-      "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Web\\obj\\",
+      "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Web\\Restaurant.Web.csproj",
+      "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

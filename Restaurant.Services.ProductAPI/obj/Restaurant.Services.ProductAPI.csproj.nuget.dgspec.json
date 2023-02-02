@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj": {}
+    "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj": {
+    "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj",
         "projectName": "Restaurant.Services.ProductAPI",
-        "projectPath": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj",
-        "packagesPath": "C:\\Users\\Ricardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ricardo\\Documents\\MS\\Restaurant\\Restaurant.Services.ProductAPI\\obj\\",
+        "projectPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Services.ProductAPI\\Restaurant.Services.ProductAPI.csproj",
+        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ricar\\OneDrive\\Documentos\\Projetos\\restaurant_microservices\\Restaurant.Services.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ricardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
