@@ -60,3 +60,5 @@ C:\Users\ricar\OneDrive\Documentos\Projetos\restaurant_microservices\Restaurant.
 C:\Users\ricar\OneDrive\Documentos\Projetos\restaurant_microservices\Restaurant.Web\obj\Debug\net6.0\Restaurant.Web.pdb
 C:\Users\ricar\OneDrive\Documentos\Projetos\restaurant_microservices\Restaurant.Web\obj\Debug\net6.0\Restaurant.Web.genruntimeconfig.cache
 C:\Users\ricar\OneDrive\Documentos\Projetos\restaurant_microservices\Restaurant.Web\obj\Debug\net6.0\ref\Restaurant.Web.dll
+C:\Users\ricar\OneDrive\Documentos\Projetos\restaurant_microservices\Restaurant.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ricar\OneDrive\Documentos\Projetos\restaurant_microservices\Restaurant.Web\obj\Debug\net6.0\Restaurant.Web.csproj.CopyComplete
